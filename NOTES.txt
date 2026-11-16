@@ -4,3 +4,4 @@ Kestrel-1 team notes
 - Ben owns planning and the control loop speed.
 - Chitra owns the vision tools and the camera timing.
 - Field team: log every test run in CHANGELOG.md.
+docs: add field team note
